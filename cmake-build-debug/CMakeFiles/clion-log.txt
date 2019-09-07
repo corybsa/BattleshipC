@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=make -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=gcc -G "CodeBlocks - Unix Makefiles" /home/haruku/CLionProjects/battleship
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/haruku/CLionProjects/battleship/cmake-build-debug

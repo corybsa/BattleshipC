@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/haruku/CLionProjects/battleship/game_piece.c
+stdlib.h
+-
+string.h
+-
+game_piece.h
+/home/haruku/CLionProjects/battleship/game_piece.h
+
+/home/haruku/CLionProjects/battleship/game_piece.h
+

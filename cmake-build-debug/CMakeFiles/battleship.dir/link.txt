@@ -1,0 +1,1 @@
+/usr/bin/gcc -g  -rdynamic CMakeFiles/battleship.dir/main.c.o CMakeFiles/battleship.dir/game_board.c.o CMakeFiles/battleship.dir/game_piece.c.o  -o battleship 
